@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\bin\Debug\OcjenskaVjezbaKolekcije.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\bin\Debug\OcjenskaVjezbaKolekcije.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\bin\Debug\OcjenskaVjezbaKolekcije.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\OcjenskaVjezbaKolekcije\OcjenskaVjezbaKolekcije\obj\Debug\OcjenskaVjezbaKolekcije.pdb
